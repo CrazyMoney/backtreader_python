@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b5cda5f-5acf-4f5d-9e92-c9c5d57bca1b" name="Default Changelist" comment="" />
+    <list default="true" id="9b5cda5f-5acf-4f5d-9e92-c9c5d57bca1b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stragery_home.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Quant_BackTrader.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Quant_BackTrader.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backtrader_02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/backtrader_02.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backtrader_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/backtrader_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iapwstest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requriement.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sqlParsing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/公式编译器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/国标.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据量测试'.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/新增函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/汽水函数说明.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/火力发电函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/调用函数.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,12 +75,16 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
   </component>
   <component name="JupyterTrust" id="789e668a-ffd0-4f2f-a56e-b9c28e8dd94d">
     <option name="files">
       <option value="backtrader_02.ipynb" />
     </option>
+=======
+>>>>>>> 2e73c09a932b538c4a4ea67e150d3bee4371bf54
   </component>
+  <component name="JupyterTrust" id="55d4054d-e680-4fea-a19a-b6539cf3bab5" />
   <component name="ProjectId" id="1dIZ3FtZIB6BE0NpUZjomiaGJVS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -311,7 +337,12 @@
       <workItem from="1618131024387" duration="22230000" />
       <workItem from="1619740487295" duration="11647000" />
       <workItem from="1619758951041" duration="4682000" />
+<<<<<<< HEAD
       <workItem from="1620263920288" duration="18906000" />
+=======
+      <workItem from="1620263920288" duration="4200000" />
+      <workItem from="1620478700792" duration="8801000" />
+>>>>>>> 2e73c09a932b538c4a4ea67e150d3bee4371bf54
     </task>
     <servers />
   </component>
@@ -327,6 +358,7 @@
       <screen x="0" y="23" width="1680" height="949" />
     </state>
     <state x="440" y="165" key="#SQL_Dialects/0.23.1680.949@0.23.1680.949" timestamp="1618108232033" />
+<<<<<<< HEAD
     <state x="687" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620451245322">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -355,6 +387,36 @@
     </state>
     <state width="1877" height="146" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1620453251825" />
     <state width="1638" height="241" key="GridCell.Tab.0.right/0.23.1680.949@0.23.1680.949" timestamp="1618401972351" />
+=======
+    <state x="539" y="307" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620548333710">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state x="539" y="307" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.949@0.23.1680.949" timestamp="1620548333710" />
+    <state x="578" y="251" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1620548359765">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state x="578" y="251" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.949@0.23.1680.949" timestamp="1620548359765" />
+    <state width="1638" height="361" key="GridCell.Tab.0.bottom" timestamp="1620560960671">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1877" height="334" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1620270771200" />
+    <state width="1638" height="361" key="GridCell.Tab.0.bottom/0.23.1680.949@0.23.1680.949" timestamp="1620560960671" />
+    <state width="1638" height="361" key="GridCell.Tab.0.center" timestamp="1620560960670">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1877" height="334" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1620270771200" />
+    <state width="1638" height="361" key="GridCell.Tab.0.center/0.23.1680.949@0.23.1680.949" timestamp="1620560960670" />
+    <state width="1638" height="361" key="GridCell.Tab.0.left" timestamp="1620560960670">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1877" height="334" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1620270771200" />
+    <state width="1638" height="361" key="GridCell.Tab.0.left/0.23.1680.949@0.23.1680.949" timestamp="1620560960670" />
+    <state width="1638" height="361" key="GridCell.Tab.0.right" timestamp="1620560960671">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1877" height="334" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1620270771200" />
+    <state width="1638" height="361" key="GridCell.Tab.0.right/0.23.1680.949@0.23.1680.949" timestamp="1620560960671" />
+>>>>>>> 2e73c09a932b538c4a4ea67e150d3bee4371bf54
     <state width="1877" height="334" key="GridCell.Tab.1.bottom" timestamp="1620270771200">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -375,15 +437,15 @@
     </state>
     <state width="1877" height="334" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1620270771200" />
     <state width="1638" height="236" key="GridCell.Tab.1.right/0.23.1680.949@0.23.1680.949" timestamp="1618235497951" />
-    <state x="390" y="125" key="SettingsEditor" timestamp="1619740982261">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="390" y="125" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1619740982261" />
-    <state x="341" y="137" key="SettingsEditor/0.23.1680.949@0.23.1680.949" timestamp="1618132824837" />
-    <state x="505" y="149" width="670" height="676" key="search.everywhere.popup" timestamp="1618142437821">
+    <state x="341" y="137" key="SettingsEditor" timestamp="1620547427365">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
-    <state x="505" y="149" width="670" height="676" key="search.everywhere.popup/0.23.1680.949@0.23.1680.949" timestamp="1618142437821" />
+    <state x="390" y="125" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1619740982261" />
+    <state x="341" y="137" key="SettingsEditor/0.23.1680.949@0.23.1680.949" timestamp="1620547427365" />
+    <state x="505" y="149" width="670" height="676" key="search.everywhere.popup" timestamp="1620547877707">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state x="505" y="149" width="670" height="676" key="search.everywhere.popup/0.23.1680.949@0.23.1680.949" timestamp="1620547877707" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -442,25 +504,36 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Quant_BackTrader$QAfinancial.coverage" NAME="QAfinancial Coverage Results" MODIFIED="1597021719961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/anaconda3/lib/python3.7/site-packages/QUANTAXIS/QAFetch" />
-    <SUITE FILE_PATH="coverage/Quant_BackTrader$Quantaxis_get_data.coverage" NAME="Quantaxis_get_data Coverage Results" MODIFIED="1597133064735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/Quant_BackTrader$backertrader_01.coverage" NAME="backertrader_01 Coverage Results" MODIFIED="1618401972341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strategy" />
     <SUITE FILE_PATH="coverage/Quant_BackTrader$BackTrader_update_China.coverage" NAME="BackTrader_update_China Coverage Results" MODIFIED="1617605524011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
-    <SUITE FILE_PATH="coverage/Quant_BackTrader$ge_data_multiprocess.coverage" NAME="ge_data_multiprocess Coverage Results" MODIFIED="1595034649901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
-    <SUITE FILE_PATH="coverage/Quant_BackTrader$save_financialfiles.coverage" NAME="save_financialfiles Coverage Results" MODIFIED="1597046450734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/anaconda3/lib/python3.7/site-packages/QUANTAXIS/QASU" />
+    <SUITE FILE_PATH="coverage/Quant_BackTrader$mutithreading_tset.coverage" NAME="mutithreading_tset Coverage Results" MODIFIED="1597058398884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/Quant_BackTrader$Test1.coverage" NAME="Test1 Coverage Results" MODIFIED="1618236014360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strategy" />
+    <SUITE FILE_PATH="coverage/Quant_BackTrader$QATdx.coverage" NAME="QATdx Coverage Results" MODIFIED="1596706939602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QUANTAXIS-master/QUANTAXIS/QAFetch" />
     <SUITE FILE_PATH="coverage/Quant_BackTrader$machine_learning.coverage" NAME="machine_learning Coverage Results" MODIFIED="1594883419291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Quant_BackTrader$update_China.coverage" NAME="update_China Coverage Results" MODIFIED="1594027184580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Quant_BackTrader$_HelloWord.coverage" NAME="_HelloWord Coverage Results" MODIFIED="1595813538617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Quant_BackTrader$sqlParsing.coverage" NAME="sqlParsing Coverage Results" MODIFIED="1600734086938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Quant_BackTrader$iapwstest.coverage" NAME="iapwstest Coverage Results" MODIFIED="1597461338437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Quant_BackTrader$power.coverage" NAME="power Coverage Results" MODIFIED="1593766334485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/backtreader_python$backtrader_02.coverage" NAME="backtrader_02 Coverage Results" MODIFIED="1620560960664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Quant_BackTrader$wechat_notification.coverage" NAME="wechat_notification Coverage Results" MODIFIED="1592183612787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notification" />
+    <SUITE FILE_PATH="coverage/Quant_BackTrader$Quantaxis_load_data.coverage" NAME="Quantaxis_load_data Coverage Results" MODIFIED="1596763405732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/Quant_BackTrader$china_stock_day_baostock_mysql.coverage" NAME="china_stock_day_baostock_mysql Coverage Results" MODIFIED="1618400941139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strategy" />
     <SUITE FILE_PATH="coverage/Quant_BackTrader$hw_1.coverage" NAME="hw_1 Coverage Results" MODIFIED="1595298752542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine_Learning" />
-    <SUITE FILE_PATH="coverage/Quant_BackTrader$Quantaxis_RNN.coverage" NAME="Quantaxis_RNN Coverage Results" MODIFIED="1597046795196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strategy" />
-    <SUITE FILE_PATH="coverage/Quant_BackTrader$.coverage" NAME="新增函数 Coverage Results" MODIFIED="1598507831531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Quant_BackTrader$LeetCode.coverage" NAME="LeetCode Coverage Results" MODIFIED="1595918945515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Quant_BackTrader$update_data_everyday.coverage" NAME="update_China Coverage Results" MODIFIED="1593439251588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Quant_BackTrader$backtrader_02.coverage" NAME="backtrader_02 Coverage Results" MODIFIED="1620270771192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Quant_BackTrader$BackTraer_get_data_multiprocess__1_.coverage" NAME="BackTraer_get_data_multiprocess (1) Coverage Results" MODIFIED="1617606402989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/save_data" />
     <SUITE FILE_PATH="coverage/Quant_BackTrader$BackTraer_get_data_multiprocess.coverage" NAME="BackTraer_get_data_multiprocess Coverage Results" MODIFIED="1617605587167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/Quant_BackTrader$ge_data_multiprocess.coverage" NAME="ge_data_multiprocess Coverage Results" MODIFIED="1595034649901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/Quant_BackTrader$boll_stagtegy.coverage" NAME="boll_stagtegy Coverage Results" MODIFIED="1594187998844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strategy" />
+    <SUITE FILE_PATH="coverage/Quant_BackTrader$update_China.coverage" NAME="update_China Coverage Results" MODIFIED="1594027184580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Quant_BackTrader$save_tdx.coverage" NAME="save_tdx Coverage Results" MODIFIED="1596707158056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/anaconda3/lib/python3.7/site-packages/QUANTAXIS/QASU" />
+    <SUITE FILE_PATH="coverage/Quant_BackTrader$_HelloWord.coverage" NAME="_HelloWord Coverage Results" MODIFIED="1595813538617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Quant_BackTrader$try.coverage" NAME="try Coverage Results" MODIFIED="1593063219830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Quant_BackTrader$QAfinancial.coverage" NAME="QAfinancial Coverage Results" MODIFIED="1597021719961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/anaconda3/lib/python3.7/site-packages/QUANTAXIS/QAFetch" />
+    <SUITE FILE_PATH="coverage/Quant_BackTrader$sqlParsing.coverage" NAME="sqlParsing Coverage Results" MODIFIED="1600734086938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Quant_BackTrader$Quantaxis_RNN.coverage" NAME="Quantaxis_RNN Coverage Results" MODIFIED="1597046795196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strategy" />
+    <SUITE FILE_PATH="coverage/Quant_BackTrader$save_financialfiles.coverage" NAME="save_financialfiles Coverage Results" MODIFIED="1597046450734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/anaconda3/lib/python3.7/site-packages/QUANTAXIS/QASU" />
+    <SUITE FILE_PATH="coverage/Quant_BackTrader$update_data_everyday.coverage" NAME="update_China Coverage Results" MODIFIED="1593439251588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Quant_BackTrader$.coverage" NAME="新增函数 Coverage Results" MODIFIED="1598507831531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Quant_BackTrader$runner.coverage" NAME="runner Coverage Results" MODIFIED="1596709391208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QUANTAXIS-master/QUANTAXIS/QACmd" />
     <SUITE FILE_PATH="coverage/Quant_BackTrader$get_data.coverage" NAME="get_data Coverage Results" MODIFIED="1596760537630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QUANTAXIS-master/zheng_dir" />
     <SUITE FILE_PATH="coverage/Quant_BackTrader$get_Data.coverage" NAME="get_Data Coverage Results" MODIFIED="1595039430903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/Quant_BackTrader$mutithreading_tset.coverage" NAME="mutithreading_tset Coverage Results" MODIFIED="1597058398884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
     <SUITE FILE_PATH="coverage/Quant_BackTrader$QATdx.coverage" NAME="QATdx Coverage Results" MODIFIED="1596706939602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QUANTAXIS-master/QUANTAXIS/QAFetch" />
     <SUITE FILE_PATH="coverage/Quant_BackTrader$Test1.coverage" NAME="Test1 Coverage Results" MODIFIED="1618236014360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strategy" />
@@ -471,10 +544,13 @@
     <SUITE FILE_PATH="coverage/Quant_BackTrader$runner.coverage" NAME="runner Coverage Results" MODIFIED="1596709391208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QUANTAXIS-master/QUANTAXIS/QACmd" />
     <SUITE FILE_PATH="coverage/Quant_BackTrader$Quantaxis_load_data.coverage" NAME="Quantaxis_load_data Coverage Results" MODIFIED="1596763405732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
     <SUITE FILE_PATH="coverage/Quant_BackTrader$boll_stagtegy.coverage" NAME="boll_stagtegy Coverage Results" MODIFIED="1594187998844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strategy" />
+=======
+>>>>>>> 2e73c09a932b538c4a4ea67e150d3bee4371bf54
     <SUITE FILE_PATH="coverage/Quant_BackTrader$utils.coverage" NAME="utils Coverage Results" MODIFIED="1593140233113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Quant_BackTrader$iapwstest.coverage" NAME="iapwstest Coverage Results" MODIFIED="1597461338437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Quant_BackTrader$LeetCode.coverage" NAME="LeetCode Coverage Results" MODIFIED="1595918945515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Quant_BackTrader$power.coverage" NAME="power Coverage Results" MODIFIED="1593766334485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Quant_BackTrader$_.coverage" NAME="数据量测试' Coverage Results" MODIFIED="1596264030915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Quant_BackTrader$BackTraer_get_data_multiprocess__1_.coverage" NAME="BackTraer_get_data_multiprocess (1) Coverage Results" MODIFIED="1617606402989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/save_data" />
-    <SUITE FILE_PATH="coverage/Quant_BackTrader$save_tdx.coverage" NAME="save_tdx Coverage Results" MODIFIED="1596707158056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/anaconda3/lib/python3.7/site-packages/QUANTAXIS/QASU" />
-    <SUITE FILE_PATH="coverage/Quant_BackTrader$wechat_notification.coverage" NAME="wechat_notification Coverage Results" MODIFIED="1592183612787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notification" />
+    <SUITE FILE_PATH="coverage/Quant_BackTrader$Quantaxis_get_data.coverage" NAME="Quantaxis_get_data Coverage Results" MODIFIED="1597133064735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
   </component>
 </project>
